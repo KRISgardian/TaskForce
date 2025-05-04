@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Debug.src\gui-plug.c">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
     <ClCompile Include="src\misc.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
@@ -28,6 +25,9 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="src\data\config.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Release.src\gui.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
